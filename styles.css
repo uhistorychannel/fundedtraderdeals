@@ -10,10 +10,10 @@
 }
 
 :root {
-    --bg: #09090b;
-    --bg-subtle: #0f0f11;
-    --bg-card: #141416;
-    --bg-hover: #1a1a1d;
+    --bg: #111114;
+    --bg-subtle: #18181b;
+    --bg-card: #1e1e22;
+    --bg-hover: #252529;
     
     --text: #fafafa;
     --text-secondary: #a1a1aa;
@@ -177,6 +177,10 @@ section h2 {
    ========================================== */
 .deals-section {
     background: var(--bg);
+}
+
+#futures-deals {
+    background: var(--bg-subtle);
 }
 
 .deals-grid {
