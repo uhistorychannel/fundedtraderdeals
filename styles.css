@@ -10,10 +10,10 @@
 }
 
 :root {
-    --bg: #1a1a1f;
-    --bg-subtle: #222228;
-    --bg-card: #2a2a32;
-    --bg-hover: #32323c;
+    --bg: #1f2028;
+    --bg-subtle: #282a33;
+    --bg-card: #32343e;
+    --bg-hover: #3c3e4a;
     
     --text: #fafafa;
     --text-secondary: #a1a1aa;
