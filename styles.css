@@ -72,8 +72,10 @@ body {
     text-decoration: none;
 }
 
-.logo-icon {
-    font-size: 1.3rem;
+.logo-img {
+    width: 28px;
+    height: 28px;
+    border-radius: 6px;
 }
 
 .nav-links {
